@@ -36,5 +36,5 @@ Intership in the epam company. Created a framework for automated testing in Java
 * **University:** Belarusian state university of transort, Civil engineer.
 * **Courses:** Epam systems.Course Automated Testing in JavaScript.
 ## Languages:
-* English - Intermediate;
+* English - Intermediate(I read books and watch videos in English);
 * Russian - Native;
